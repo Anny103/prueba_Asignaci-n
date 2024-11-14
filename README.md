@@ -1,2 +1,5 @@
 # prueba_Asignaci-n
-Integrantes:
+Integrantes: 
+-Anayancy Pavón
+-Ángel Romero
+-Kimberly Vivas
